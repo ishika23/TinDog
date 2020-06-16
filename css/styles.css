@@ -1,0 +1,185 @@
+#title{
+  background-color: #f8b24f;
+  padding-bottom: 5%;
+}
+h1{
+  font-family: 'Lobster Two', cursive;
+  padding: 15% 5% 5% 15%;
+  line-height: 1.5rem;
+  margin-left: 5%;
+}
+h2{
+  font-family: 'Sriracha', cursive;
+}
+.h{
+  font-size: 60px;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.container-fluid{
+  padding-bottom: 5%;
+}
+.d{
+  width: 80%;
+  height: 100%;
+  padding-top: 10%;
+  border-radius: 45%;
+}
+/* NAVBAR*/
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.navbar-item{
+  padding-right: 10%;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+/* Feature */
+#features{
+  padding: 5% 20%;
+  background-color: #cf7500;
+}
+.feature-box{
+  color: white;
+  text-align: center;
+  padding: 5%;
+}
+.hhh{
+  font-size: 2.5rem;
+  color: #9a1f40;
+}
+.hhh:hover{
+  color: white;
+}
+.icon{
+  margin-bottom: 5%;
+}
+.icon:hover{
+  color: #9a1f40;
+}
+/*testimonial section*/
+#testimonials{
+  text-align: center;
+  background-color: #f1935c;
+}
+.hh{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.timage{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.timage1{
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item{
+  padding: 5% 15%;
+}
+/* press */
+#press{
+  text-align: center;
+  padding: 5%;
+  background-color: #f1935c;
+}
+.pimage{
+  width: 20%;
+  margin: 10px 20px 50px;
+}
+/* info */
+#info{
+  padding: 5% 5%;
+  text-align: center;
+  background-color: #cf7500;
+  color: white;
+}
+.ih{
+  font-size: 3rem;
+}
+.ip{
+  width: 95%;
+  border-radius: 100%;
+  padding-right: 10px;
+}
+.ip1{
+  width: 90%;
+  height: 80%;
+  border-radius: 100%;
+  padding-right: 10px;
+}
+.ip2{
+  width: 90%;
+  height: 80%;
+  border-radius: 100%;
+  padding-right: 10px;
+}
+.pic{
+  text-align: center;
+  background-color: black;
+}
+.pp{
+  height: 20%;
+  width: 25%;
+  border-radius: 100%;
+}
+/* pricing */
+#pricing{
+  background-color: #f8b24f;
+  padding: 5% 8%;
+  text-align: center;
+}
+.pcol{
+  padding: 2% 3%;
+}
+.hp{
+  font-size: 2rem;
+}
+.card-header{
+  color: #9a1f40;
+}
+.card-body{
+  background-color: #cfe5cf;
+}
+/* cta */
+#cta{
+  background-color: #bac964;
+  text-align: center;
+  padding: 8% 5%;
+}
+.ctah{
+  padding-bottom: 10%;
+  font-size: 3.5rem;
+  color: #9a1f40;
+}
+.dd{
+  border-radius: 100%;
+  width: 90%;
+}
+.heart{
+  width: 80%;
+  height: 75%;
+}
+/* footer */
+#footer{
+  background-color: #cf7500;
+  padding: 4% 15%;
+  text-align: center;
+  font-size: 1.5rem;
+}
+@media (max-width: 950px)
+{
+  #title{
+    text-align: center;
+  }
+  .d{
+    width:50%;
+    height:80%;
+
+  }
+}
